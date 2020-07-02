@@ -1,1 +1,6 @@
-Test git quick start demo
+Test git quick start demo.
+This is just for practicing and learning git and github.
+After learning the git we will be started to push our projects that we will made in future in the github.
+So. lets hope for the best.
+Till then Happy and safe journey.
+Bye!
