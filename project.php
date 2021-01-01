@@ -61,9 +61,7 @@ if(isset($_POST['Name'])){
             <input type="text" placeholder="Enter your phone" name="Phone" id="Phone">
             <textarea name="Feedback" id="Feedback" cols="30" rows="10" placeholder="Enter your feedback"></textarea>
             <button class="btn" style="float:left;">Submit</button>
-            <!--button class="btn" style="float:left;">Reset</button-->
         </form>
-        <!--INSERT INTO `table` (`Sr.`, `Name`, `Email`, `Age`, `Gender`, `Phone`, `Feedback`, `Date`) VALUES ('1', 'Sameer', 'Sameer@gmail.com', '19', 'Male', '147852369', 'This is a good value.', current_timestamp());-->
     </div>
 </body>
 </html>
